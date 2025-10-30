@@ -1,6 +1,6 @@
 # ----------------------------------
 # QuickLand Network Custom Docker Image
-# Image: ghcr.io/piposanchezman/images:graalvm-22
+# Image: ghcr.io/piposanchezman/images:graalvm-21
 # ----------------------------------
 
 FROM debian:bookworm-slim
